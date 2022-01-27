@@ -34,11 +34,10 @@ diamonds_subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-diamonds_subset_vg <-diamonds %>% 
-  filter(cut == "Very Good")
-### to plot, summarize, calculate something simple using the diamonds
-### dataset.
+## some random test code!!!
 
+diamonds_ideal <- diamonds %>% 
+  filter(cut == "Ideal")
 ```
 
 ## STEP 11: And even more merge conflicts!

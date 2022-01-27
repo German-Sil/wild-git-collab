@@ -38,8 +38,6 @@ diamonds_subset <- diamonds %>%
 
 diamonds_ideal <- diamonds %>% 
   filter(cut == "Ideal")
-
-
 ```
 
 ## STEP 11: And even more merge conflicts!
